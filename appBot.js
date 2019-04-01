@@ -5,7 +5,7 @@ process.env.NTBA_FIX_319 = 1;
 const TelegramBot = require('node-telegram-bot-api');
 const dbot = require('dbot-js');
 
-const token = 'TOKEN TELEGRAM'
+const token = 'TOKEN TELEGRAM';
 // const bot = new TelegramBot(token, {polling: true});
 const bot = new TelegramBot(token, {polling: true});
 
