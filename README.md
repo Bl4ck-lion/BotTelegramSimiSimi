@@ -77,7 +77,8 @@ bot.on('message', (msg) => {
 });
 ```
 
-untuk token telegram bisa digunakan pada akun bot sebelumnya 
+Masukan Key Simi Yang Sudah kita daftarkan
+Untuk token telegram bisa digunakan pada akun bot sebelumnya 
 
 jalankan dengan cara
 ```
